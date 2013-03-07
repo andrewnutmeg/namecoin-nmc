@@ -1,0 +1,4 @@
+namecoin-nmc
+============
+
+domain NMC
